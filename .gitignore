@@ -1,0 +1,16 @@
+# Environnement virtuel
+venv/
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+
+# DB SQLite
+*.sqlite3
+
+# Variables d'environnement
+.env
+
+# Fichiers Node.js (si tu utilises React/Vite dans le même projet)
+node_modules/
+dist/
